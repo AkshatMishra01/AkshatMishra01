@@ -17,21 +17,14 @@ Here are some ideas to get you started:
 
 
 
->Most commonly used languages
->
-><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatmishra01&show_icons=true&locale=en&layout=compact" alt="akshatmishra01" /></p>
->
 
-<br>
 
->Here are some of my stats:
->
-><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatmishra01&show_icons=true&locale=en" alt="akshatmishra01" /></p>
->
+><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatmishra01&show_icons=true&locale=en&layout=compact" alt="akshatmishra01" /><br><br><br><br>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatmishra01&show_icons=true&locale=en" alt="akshatmishra01" /></p>
+
 
 >
 >
-><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatmishra01&" alt="akshatmishra01" /></p>
+><p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatmishra01&" alt="akshatmishra01" /></p>
 >
 
 <h3 align="left">Languages and Tools:</h3>
