@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Object Oriented Programming**
 
-- 📫 How to reach me **Twitter : @Akshatm97487184**
+- 📫 How to reach me **Twitter : @AkshatM97487184**
 
 
 <h3 align="left">Languages and Tools:</h3>
