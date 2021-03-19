@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IOT through Python**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
