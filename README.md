@@ -5,14 +5,13 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 👯 I’m looking to collaborate on **GitHub**
+- 👯 I’m looking to collaborate on **Open Scource projects**
 
 - 🤝 I’m looking for help with **Flutter**
 
 - 💬 Ask me about **Object Oriented Programming**
 
-- 📫 How to reach me **Twitter : @AkshatM97487184**
-
+- 📫 How to reach me **Twitter : @AkshatM97487184, mishraakshat924@gmail.com**
 - Nickname - SublimeSoul 
 <h3 align="left">Languages and Tools:</h3>
 <img src=https://tse3.mm.bing.net/th?id=OIP.9uRmklmqUK2V4TKetu9oXAHaHa&pid=Api&P=0&w=300&h=300 alt="Github Dance" align="right">
