@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Scource projects**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for OpenSource Projects to contribute.
 
 - 💬 Ask me about **Object Oriented Programming**
 
