@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Akshat Kumar Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatmishra01&label=Profile%20views&color=0e75b6&style=flat" alt="akshatmishra01" /> </p>
-<img src="https://camo.githubusercontent.com/53bfbd465f5f944b7ce68263a60a9a11f4baf15a9f59b9684fc23e2355e35ec8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73686c6f6b6d6f68616e7479">
 - 🔭 I’m currently working on **IOT through Python**
 
 - 🌱 I’m currently learning **Neural Networks**
