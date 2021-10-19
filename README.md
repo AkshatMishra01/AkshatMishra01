@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm  Akshat Kumar Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatmishra01&label=Profile%20views&color=0e75b6&style=flat" alt="akshatmishra01" /> </p>
-- 🔭 I’m currently working on **IOT through Python**
+- 🔭 I’m currently working on **MySQL**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Web Designing**
 
 - 👯 I’m looking to collaborate on **Open Scource projects**
 
 - 🤝 I’m looking for OpenSource Projects to contribute.
 
-- 💬 Ask me about **Object Oriented Programming**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, RDBMS**
 
 - 📫 How to reach me **Twitter : @AkshatM97487184, mishraakshat924@gmail.com**
 - Nickname - SublimeSoul 
